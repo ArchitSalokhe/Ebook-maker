@@ -1,0 +1,30 @@
+.nav {
+    align-items: center;
+    display: flex;
+    border-width: 3px;
+    background-color: rgb(192, 163, 255);
+    height: 100px;
+    justify-content: center;
+    column-gap: 50px;
+}
+.nav > a {
+    align-items: center;
+    display: flex;
+    border-width: 3px;
+    background-color: rgb(192, 163, 255);
+    height: 100px;
+    justify-content: center;
+    column-gap: 50px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.nav > a > img{
+    height: 70px;
+    width: 70px;
+    border-radius: 10px;
+}
+.nav > a > h1 {
+    font-family: 'Gill Sans';
+    font-size: 37px;
+    letter-spacing: 1px;
+}
