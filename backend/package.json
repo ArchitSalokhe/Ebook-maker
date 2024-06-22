@@ -2,13 +2,8 @@
   "dependencies": {
     "body-parser": "^1.20.1",
     "cors": "^2.8.5",
-<<<<<<< HEAD
     "express": "^4.19.2",
     "mongoose": "^8.4.0",
-=======
-    "express": "^4.18.2",
-    "mongoose": "^6.7.2",
->>>>>>> ab1d9243d9ebae8b49d69dfecf7bdf16e8a949fc
     "multer": "^1.4.5-lts.1",
     "nodemon": "^2.0.20"
   }
